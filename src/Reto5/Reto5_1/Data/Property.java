@@ -3,7 +3,7 @@ package Reto5.Reto5_1.Data;
 /**
  * This class represents a property with an address, coordinates, and status.
  */
-public class Property {
+public class  Property {
 
     public String address;
     public double coordinates;

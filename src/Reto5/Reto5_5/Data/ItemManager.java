@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * This class manages items by adding items to a cart, calculating the net amount for each item,
  * and displaying the cart.
  */
-public class ItemManager {
+public class  ItemManager {
 
     /**
      * Adds an item to the cart.

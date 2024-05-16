@@ -3,7 +3,7 @@ package Reto5.Reto5_2.Data;
 /**
  * This class represents an account with total savings, an account number, and an owner.
  */
-public class Account {
+public class  Account {
 
     public double totalSavings;
     public int accountNumber;

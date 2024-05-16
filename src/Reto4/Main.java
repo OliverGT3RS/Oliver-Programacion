@@ -4,7 +4,7 @@ import Reto4.Process.VentaDeBoletos;
 
 import java.util.Scanner;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         VentaDeBoletos ventaDeBoletos = new VentaDeBoletos();
         Scanner scanner = new Scanner(System.in);

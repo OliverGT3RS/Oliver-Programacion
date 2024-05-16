@@ -3,7 +3,7 @@ package Reto5.Reto5_1.Data;
 /**
  * This class represents a user with a location.
  */
-public class User {
+public class  User {
     public double location;
 
     /**

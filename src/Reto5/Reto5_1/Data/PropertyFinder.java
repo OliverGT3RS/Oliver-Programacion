@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * This class is responsible for finding nearby properties based on user location.
  */
-public class PropertyFinder {
+public class  PropertyFinder {
 
     /**
      * Adds a property to the list of nearby properties if its coordinates are close to the user's location.

@@ -3,7 +3,7 @@ package Reto5.Reto5_4.Data;
 /**
  * This class represents a contact with a name, address, home phone number, and work phone number.
  */
-public class Contact {
+public class   Contact {
 
     public String name;
     public String address;

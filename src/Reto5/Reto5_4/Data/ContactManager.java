@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * This class manages contacts by adding contacts to a list and displaying the list of contacts.
  */
-public class ContactManager {
+public class  ContactManager {
 
     /**
      * Adds a contact to the list of contacts.

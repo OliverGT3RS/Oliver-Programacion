@@ -3,7 +3,7 @@ package Reto5.Reto5_3.Data;
 /**
  * This class represents a product with a name, price, quantity, and total amount.
  */
-public class Product {
+public class  Product {
 
     public String name;
     public double price;
