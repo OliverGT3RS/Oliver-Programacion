@@ -1,4 +1,4 @@
-package Reto4.process;
+package Reto4.Process;
 
 import Reto4.ui.RegistroDeVenta;
 

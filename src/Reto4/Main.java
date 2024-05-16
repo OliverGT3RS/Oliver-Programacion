@@ -1,6 +1,6 @@
 package Reto4;
 
-import Reto4.process.VentaDeBoletos;
+import Reto4.Process.VentaDeBoletos;
 
 import java.util.Scanner;
 
